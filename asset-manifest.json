@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dellecommerce/static/css/main.b419591d.css",
+    "main.js": "/dellecommerce/static/js/main.c6d53387.js",
+    "static/js/787.950416b8.chunk.js": "/dellecommerce/static/js/787.950416b8.chunk.js",
+    "index.html": "/dellecommerce/index.html",
+    "main.b419591d.css.map": "/dellecommerce/static/css/main.b419591d.css.map",
+    "main.c6d53387.js.map": "/dellecommerce/static/js/main.c6d53387.js.map",
+    "787.950416b8.chunk.js.map": "/dellecommerce/static/js/787.950416b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b419591d.css",
+    "static/js/main.c6d53387.js"
+  ]
+}
