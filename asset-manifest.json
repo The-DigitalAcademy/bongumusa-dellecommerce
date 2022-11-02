@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dellecommerce/static/css/main.b419591d.css",
-    "main.js": "/dellecommerce/static/js/main.c6d53387.js",
-    "static/js/787.950416b8.chunk.js": "/dellecommerce/static/js/787.950416b8.chunk.js",
-    "index.html": "/dellecommerce/index.html",
-    "main.b419591d.css.map": "/dellecommerce/static/css/main.b419591d.css.map",
-    "main.c6d53387.js.map": "/dellecommerce/static/js/main.c6d53387.js.map",
-    "787.950416b8.chunk.js.map": "/dellecommerce/static/js/787.950416b8.chunk.js.map"
+    "main.css": "/bongumusa-dellecommerce/static/css/main.b419591d.css",
+    "main.js": "/bongumusa-dellecommerce/static/js/main.6c047a9c.js",
+    "static/js/787.950416b8.chunk.js": "/bongumusa-dellecommerce/static/js/787.950416b8.chunk.js",
+    "index.html": "/bongumusa-dellecommerce/index.html",
+    "main.b419591d.css.map": "/bongumusa-dellecommerce/static/css/main.b419591d.css.map",
+    "main.6c047a9c.js.map": "/bongumusa-dellecommerce/static/js/main.6c047a9c.js.map",
+    "787.950416b8.chunk.js.map": "/bongumusa-dellecommerce/static/js/787.950416b8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b419591d.css",
-    "static/js/main.c6d53387.js"
+    "static/js/main.6c047a9c.js"
   ]
 }
